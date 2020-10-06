@@ -1,0 +1,175 @@
+.detailed-contact {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    background-color: rgb(240, 240, 240);
+
+    height: 100vh;
+}
+
+
+.background-container {
+    width: 100%;
+    height: 25vh;
+    background-color: rgb(221, 221, 221);
+
+}
+
+
+.detailed-contact__avatar {
+    width: 128px;
+    border-radius: 100px;
+    position: relative;
+    bottom: 60px;
+    border: 10px solid rgb(255, 255, 255);
+}
+
+.detailed-contact__name {
+    margin: 0 0 20px 0;
+    width: 40%;
+}
+
+
+.detailed-contact__info-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 40%;
+    border-bottom: 1px solid #cecece;
+    border-top: 1px solid #cecece;
+    margin-bottom: 30px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.detailed-contact__info-field {
+    font-family: Geneva, sans-serif;
+    color: rgb(126, 126, 126);
+    margin: 4px 0 4px 0;
+    font-size: 19px;
+
+}
+
+.detailed-contact__info {
+    font-family: Geneva, sans-serif;
+    margin: 8px 0 8px 0;
+    font-size: 23px;
+
+}
+
+.detailed-contact__input {
+    font-family: Geneva, sans-serif;
+    margin: 8px 0 8px 0;
+    font-size: 23px;
+    outline: none;
+    border: 1px solid #bbb;
+    border-radius: 25px;
+    padding: 10px;
+    width: 98%;
+
+}
+
+.detailed-contact__input-name {
+    margin: 0 0 20px 0;
+    font-family: Geneva, sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    border-bottom: 1px solid #cecece;
+    outline: none;
+    border: 1px solid #bbb;
+    border-radius: 40px;
+    padding: 9px;
+    text-align: center;
+
+
+}
+
+.detailed-contact__input-name:focus,
+.detailed-contact__input:focus {
+    border-color: rgb(122, 122, 240);
+
+
+}
+
+
+.detailed-contact__button {
+    width: 100px;
+    border-radius: 25px;
+    background-color: #2F71E5;
+    color: #FFFFFF;
+    border: none;
+    font-family: Geneva, sans-serif;
+    padding: 8px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    outline: none;
+}
+
+
+.detailed-contact__button:hover {
+
+    background-color: #347EFF;
+    cursor: pointer;
+
+}
+
+.detailed-contact__button:active {
+
+    background-color: #2A65CC;
+
+}
+
+
+@media screen and (max-width:720px) {
+
+    .detailed-contact__name {
+        margin: 0 0 8px 0;
+        font-size: 20px;
+
+    }
+
+    .detailed-contact__info-container {
+        margin-bottom: 15px;
+        padding-bottom: 8px;
+        padding-top: 8px;
+    }
+
+
+    .detailed-contact__info-field {
+        font-size: 14px;
+
+    }
+
+    .detailed-contact__info {
+        font-family: Geneva, sans-serif;
+        margin: 8px 0 8px 0;
+        font-size: 16px;
+
+    }
+
+
+    .detailed-contact__input {
+
+        margin: 4px 0 4px 0;
+        font-size: 16px;
+        padding: 5px;
+        
+
+    }
+
+    .detailed-contact__input-name {
+        margin: 0 0 8px 0;
+
+        font-size: 20px;
+
+        padding: 5px;
+
+
+
+    }
+
+}

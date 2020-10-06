@@ -1,0 +1,9 @@
+.contacts-list {
+    list-style: none;
+    padding: 10px;
+}
+
+.contact-link {
+    text-decoration: none;
+    color: inherit;
+}
