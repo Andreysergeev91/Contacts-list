@@ -1,6 +1,5 @@
 # Contacts-list-app
 
-[https://andreysergeev91.github.io/contacts-list/index.html](https://andreysergeev91.github.io/contacts-list/index.html)
 
 This project is intended to demonstrate skills and knowledges of web technologies. The Project is a SPA application includes list of contacts and detailed information of each contact.
 
