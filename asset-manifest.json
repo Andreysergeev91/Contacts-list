@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Andreysergeev91/contacts-list/static/css/main.b470e7d8.chunk.css",
-    "main.js": "/Andreysergeev91/contacts-list/static/js/main.4eb0f13c.chunk.js",
-    "main.js.map": "/Andreysergeev91/contacts-list/static/js/main.4eb0f13c.chunk.js.map",
-    "runtime-main.js": "/Andreysergeev91/contacts-list/static/js/runtime-main.9d3219ec.js",
-    "runtime-main.js.map": "/Andreysergeev91/contacts-list/static/js/runtime-main.9d3219ec.js.map",
-    "static/js/2.554643fa.chunk.js": "/Andreysergeev91/contacts-list/static/js/2.554643fa.chunk.js",
-    "static/js/2.554643fa.chunk.js.map": "/Andreysergeev91/contacts-list/static/js/2.554643fa.chunk.js.map",
-    "index.html": "/Andreysergeev91/contacts-list/index.html",
-    "precache-manifest.e01338e9bb839be9edea0c61636bf4c6.js": "/Andreysergeev91/contacts-list/precache-manifest.e01338e9bb839be9edea0c61636bf4c6.js",
-    "service-worker.js": "/Andreysergeev91/contacts-list/service-worker.js",
-    "static/css/main.b470e7d8.chunk.css.map": "/Andreysergeev91/contacts-list/static/css/main.b470e7d8.chunk.css.map",
-    "static/js/2.554643fa.chunk.js.LICENSE.txt": "/Andreysergeev91/contacts-list/static/js/2.554643fa.chunk.js.LICENSE.txt",
-    "static/media/account_circle-black-18dp.svg": "/Andreysergeev91/contacts-list/static/media/account_circle-black-18dp.be049e9a.svg"
+    "main.css": "/contacts-list/static/css/main.b470e7d8.chunk.css",
+    "main.js": "/contacts-list/static/js/main.4eb0f13c.chunk.js",
+    "main.js.map": "/contacts-list/static/js/main.4eb0f13c.chunk.js.map",
+    "runtime-main.js": "/contacts-list/static/js/runtime-main.3a119c64.js",
+    "runtime-main.js.map": "/contacts-list/static/js/runtime-main.3a119c64.js.map",
+    "static/js/2.554643fa.chunk.js": "/contacts-list/static/js/2.554643fa.chunk.js",
+    "static/js/2.554643fa.chunk.js.map": "/contacts-list/static/js/2.554643fa.chunk.js.map",
+    "index.html": "/contacts-list/index.html",
+    "precache-manifest.80729ffc1ff850a71947d6b1eea8a5aa.js": "/contacts-list/precache-manifest.80729ffc1ff850a71947d6b1eea8a5aa.js",
+    "service-worker.js": "/contacts-list/service-worker.js",
+    "static/css/main.b470e7d8.chunk.css.map": "/contacts-list/static/css/main.b470e7d8.chunk.css.map",
+    "static/js/2.554643fa.chunk.js.LICENSE.txt": "/contacts-list/static/js/2.554643fa.chunk.js.LICENSE.txt",
+    "static/media/account_circle-black-18dp.svg": "/contacts-list/static/media/account_circle-black-18dp.be049e9a.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9d3219ec.js",
+    "static/js/runtime-main.3a119c64.js",
     "static/js/2.554643fa.chunk.js",
     "static/css/main.b470e7d8.chunk.css",
     "static/js/main.4eb0f13c.chunk.js"
