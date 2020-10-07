@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.b470e7d8.chunk.css",
-    "main.js": "/static/js/main.4eb0f13c.chunk.js",
-    "main.js.map": "/static/js/main.4eb0f13c.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.5ffb22a8.js",
-    "runtime-main.js.map": "/static/js/runtime-main.5ffb22a8.js.map",
-    "static/js/2.554643fa.chunk.js": "/static/js/2.554643fa.chunk.js",
-    "static/js/2.554643fa.chunk.js.map": "/static/js/2.554643fa.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.2559f05ce547d92064422dfb8e4c5f5b.js": "/precache-manifest.2559f05ce547d92064422dfb8e4c5f5b.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.b470e7d8.chunk.css.map": "/static/css/main.b470e7d8.chunk.css.map",
-    "static/js/2.554643fa.chunk.js.LICENSE.txt": "/static/js/2.554643fa.chunk.js.LICENSE.txt",
-    "static/media/account_circle-black-18dp.svg": "/static/media/account_circle-black-18dp.be049e9a.svg"
+    "main.css": "/Andreysergeev91/contacts-list/static/css/main.b470e7d8.chunk.css",
+    "main.js": "/Andreysergeev91/contacts-list/static/js/main.4eb0f13c.chunk.js",
+    "main.js.map": "/Andreysergeev91/contacts-list/static/js/main.4eb0f13c.chunk.js.map",
+    "runtime-main.js": "/Andreysergeev91/contacts-list/static/js/runtime-main.9d3219ec.js",
+    "runtime-main.js.map": "/Andreysergeev91/contacts-list/static/js/runtime-main.9d3219ec.js.map",
+    "static/js/2.554643fa.chunk.js": "/Andreysergeev91/contacts-list/static/js/2.554643fa.chunk.js",
+    "static/js/2.554643fa.chunk.js.map": "/Andreysergeev91/contacts-list/static/js/2.554643fa.chunk.js.map",
+    "index.html": "/Andreysergeev91/contacts-list/index.html",
+    "precache-manifest.e01338e9bb839be9edea0c61636bf4c6.js": "/Andreysergeev91/contacts-list/precache-manifest.e01338e9bb839be9edea0c61636bf4c6.js",
+    "service-worker.js": "/Andreysergeev91/contacts-list/service-worker.js",
+    "static/css/main.b470e7d8.chunk.css.map": "/Andreysergeev91/contacts-list/static/css/main.b470e7d8.chunk.css.map",
+    "static/js/2.554643fa.chunk.js.LICENSE.txt": "/Andreysergeev91/contacts-list/static/js/2.554643fa.chunk.js.LICENSE.txt",
+    "static/media/account_circle-black-18dp.svg": "/Andreysergeev91/contacts-list/static/media/account_circle-black-18dp.be049e9a.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.5ffb22a8.js",
+    "static/js/runtime-main.9d3219ec.js",
     "static/js/2.554643fa.chunk.js",
     "static/css/main.b470e7d8.chunk.css",
     "static/js/main.4eb0f13c.chunk.js"
