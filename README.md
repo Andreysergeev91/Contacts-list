@@ -2,6 +2,7 @@
 
 
 This project is intended to demonstrate skills and knowledges of web technologies. The Project is a SPA application includes list of contacts and detailed information of each contact.
+[https://andreysergeev91.github.io/contacts-list/](https://andreysergeev91.github.io/contacts-list/)
 
 ## Installation
 
